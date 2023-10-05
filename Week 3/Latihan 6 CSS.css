@@ -1,0 +1,12 @@
+body{
+    background-color: lightblue;
+    background-image: url(https://id0.sgp1.digitaloceanspaces.com/s8IZ_6xJM-600w.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    color: black;
+    letter-spacing: normal;
+}
